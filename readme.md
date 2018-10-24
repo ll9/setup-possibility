@@ -1,0 +1,1 @@
+https://social.msdn.microsoft.com/Forums/windows/en-US/03deaf3d-2dd7-4d3e-a337-084eeb38e791/how-to-generate-exe-file-of-c-windows-forms-app-net-framework-in-visual-studio-2017?forum=winforms
